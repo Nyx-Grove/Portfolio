@@ -1,0 +1,12 @@
+body{
+    background-color:#CBC3E3 ;
+    background-repeat: no-repeat;
+    color: whitesmoke;
+    background-size: 800px 800px;
+    height: 500x;
+    text-align: center;
+}
+.stuff{
+    display: block;
+    text-align: center;
+}

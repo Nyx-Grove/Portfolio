@@ -1,0 +1,32 @@
+.jumbotron{
+    background-color: rgb(183, 166, 233);
+}
+body{
+    background-color:#CBC3E3 ;
+    
+}
+
+ul{
+    background-color: #800080;
+    padding: 20px;
+}
+
+ul li{
+    background-color: #CBC3E3;
+    margin: 5px;
+}
+
+img{
+    height: 150px;
+    width: 100px;
+}
+
+.mb-3{
+    background-color: #800080;
+    padding: 10px;
+     margin: 20px;
+}
+
+.skills{
+    display: block;
+}
